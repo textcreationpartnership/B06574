@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the just and undeniable title of Alphonso the Sixth, King of Portugal, now reigning, 1661. Warranted by the fundamental laws of that nation. / by Raph Whitfeld, Gent.</title>
+            <author>Whitfeld, Raphe.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06574</idno>
+            <idno type="STC">Wing W1996AA</idno>
+            <idno type="STC">ESTC R186536</idno>
+            <idno type="EEBO-CITATION">51749581</idno>
+            <idno type="OCLC">ocm 51749581</idno>
+            <idno type="VID">175104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175104)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2712:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the just and undeniable title of Alphonso the Sixth, King of Portugal, now reigning, 1661. Warranted by the fundamental laws of that nation. / by Raph Whitfeld, Gent.</title>
+                  <author>Whitfeld, Raphe.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh, :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alfonso --  VI, --  King of Castile and Leon, 1030-1109.</term>
+               <term>Portugal --  Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Portugal --  History --  Alfonso VI, 1656-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175104:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:175104:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>A BRIEF RELATION OF THE Juſt and Undeniable TITLE OF ALPHONSO THE SIXTH KING of <hi>PORT<g ref="char:V">Ʋ</g>GAL,</hi> Now Reigning, 1661.</p>
+            <p>Warranted By the Fundamental LAWS of that NATION.</p>
+            <p>By <hi>Raph Whitfeld,</hi> Gent.</p>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175104:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="3" facs="tcp:175104:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>A brief Relation of the juſt Title of <hi>Alphonſo,</hi> now King of <hi>Portugal.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the opinion of many, that the Right and Title to the Crown of <hi>Portugal</hi> re<g ref="char:EOLhyphen"/>ſides in the Kings of <hi>Spain,</hi> an Errour ſpringing either from their not knowing the Genealogies of thoſe Princes, or from an apprehenſion that ſixty years poſſeſſion by the <hi>Auſtrian</hi> Family could make a Title in<g ref="char:EOLhyphen"/>dubitable, which was never warranted by right of blood, or by the Laws of <hi>Portugal.</hi> It is true, <hi>Philip</hi> the Se<g ref="char:EOLhyphen"/>cond, who ſeized upon that Kingdom, was the Son of a <hi>Portugal</hi> Princeſs, but ſhe had a Brother, whoſe iſſue yet remains, and from whom deſcends the preſent King of <hi>Portugal,</hi> who being deſcended from a Brother, muſt be preferred before the iſſue of the Siſter, the Male being ad<g ref="char:EOLhyphen"/>judged the better by all the Laws of Chriſtendom, though perhaps among the Amazons the Laws were otherwiſe. But to make good this Title, I muſt run back to the begin<g ref="char:EOLhyphen"/>ning of the <hi>Portugal</hi> Monarchy, and preſent you with ſome of their Fundamental Laws, whoſe Authority can never be gainſaid.</p>
+            <p>In the Year 1139. <hi>Don Alphonſo,</hi> General of the <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> Army, then ready to encounter with five <hi>Mahometan</hi> Kings, commanding an Army of four hundred thouſand <hi>Moors,</hi> was unanimouſly ſaluted King, which Legion of
+<pb n="4" facs="tcp:175104:3"/>
+               <!-- PDF PAGE 33 -->Locuſts by his courage and conduct were put to flight, and eaſily became the firſt Trophies to this conquering King. And now the angry ſtorm of War blown over, the King betakes himſelf to the Arts of Peace, to make good Laws, which was done by aſſembling the three Eſtates in the City of <hi>Lamego,</hi> where were enacted many Laws, which they juſtly account their Fundamentals, as unalterable as thoſe of the <hi>Medes</hi> and <hi>Perſians,</hi> made Sacred by the obſervation of them both by Prince and People, to the holy tye of which they both oblieg'd their Faith; theſe Laws then are the ground on which we build, and from whence we ſhall eaſily juſtifie the undoubted Title of the now King of <hi>Portugal.</hi>
+            </p>
+            <p>Firſt, it was Enacted, that his Son, and Grandſon, and ſo forward, ſhould reign after him <hi>in ſecula ſeculorum,</hi> but if the King have only Daughters, the Eldeſt ſhould be Queen after her Father, upon condition ſhe be married to a Native of <hi>Portugal,</hi> and that he be a Nobleman, who ſhall not take upon him the name of a King, untill he hath a Son born, nor wear a Crown on his head, nor take the right hand of his Wife.</p>
+            <p>But that which I inſiſt on, is the laſt clauſe which I ſhall faithfully tranſcribe.</p>
+            <p>
+               <q xml:lang="lat">Sit iſta Lex in ſempiter<g ref="char:EOLhyphen"/>num, quod Prima Filia Re<g ref="char:EOLhyphen"/>gis accipiat maritum de Portugale, ut non veniat regnum ad Extraneos; &amp; ſi caſaverit cum Principe extraneo, non ſit Regina: quia nunquam volumus nostrum Regnum ire de
+<pb n="5" facs="tcp:175104:3"/>
+                  <!-- PDF PAGE 33 -->Portugalenſibus qui nos ſua fortitudine Reges fecerunt, fine adjutorio alieno, per ſuam fortitudinem &amp; cum ſanguine ſuo.</q>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:175104:3"/>
+               <!-- PDF PAGE 33 -->
+               <q xml:lang="eng">Let it be a Law for ever, that the Kings Eldeſt Daughter marry a Native of <hi>Portugal,</hi> that ſo the Crown may never deſcend to Strangers; and in caſe ſhe ſhould marry a Prince that is a Stranger, let her not be Queen: for we will never have our Kingdom go out of the Race
+<pb n="5" facs="tcp:175104:3"/>
+                  <!-- PDF PAGE 33 -->of the <hi>Portugals,</hi> who have made us Kings by their own Valour, with out forreign aſſiſtance, by their own valour, and with the effuſion of their own blood.</q>
+            </p>
+            <p>This Law was put in execution after the death of <hi>Fer<g ref="char:EOLhyphen"/>nando</hi> the ninth King of that Race; for <hi>Donna Beatrice</hi> his Daughter, being married to a forreign Prince, was ex<g ref="char:EOLhyphen"/>cluded, and King <hi>John</hi> the Firſt was advanced to the Throne, from whom deſcended <hi>Emmanuel</hi> the fourteenth King, who had ſix Sons and two Daughters.</p>
+            <list>
+               <item>1. <hi>Don John,</hi> afterwards King, Father of <hi>John</hi> Prince of <hi>Portugal,</hi> Father of <hi>Sebaſtian,</hi> King of <hi>Portugal,</hi> ſlain in <hi>Affrica,</hi> 1578. without iſſue.</item>
+               <item>2 Son was <hi>Don Lewis,</hi> who left no iſſue Legiti<g ref="char:EOLhyphen"/>mate.</item>
+               <item>3 Son <hi>Don Fernando,</hi> who died without iſſue.</item>
+               <item>4 Son <hi>Don Alphonſo</hi> Cardinal, Archbiſhop of <hi>Lisbon,</hi> and Abbot of <hi>Alcobaza,</hi> never married.</item>
+               <item>5 Son <hi>Don Henry,</hi> Cardinal, and Archbiſhop of <hi>Braga,</hi> afterwards King.</item>
+               <item>6 Son <hi>Don Edward,</hi> who left two Daughters, the El<g ref="char:EOLhyphen"/>deſt was <hi>Mary,</hi> married out of the Kingdom to <hi>Alexander</hi> Duke of <hi>Parma;</hi> the Younger was <hi>Katherine,</hi> married in <hi>Portugal</hi> to <hi>John</hi> Duke of <hi>Braganza,</hi> Grandfather of <hi>John</hi> the Fourth, King of <hi>Portugal,</hi> Father of <hi>Alphonſo</hi> now reigning.</item>
+            </list>
+            <p>Of King <hi>Emmanuels</hi> two Daughters, the Eldeſt was married to the Emperour <hi>Charles</hi> the 5th. Father of <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the Second, King of <hi>Spain,</hi> Grandfather of <hi>Philip</hi> the Fourth, from whom it was regained by the Right Heir.</p>
+            <p>
+               <pb n="6" facs="tcp:175104:4"/>
+               <!-- PDF PAGE 34 -->
+The youngeſt Daughter of <hi>Emmanuel</hi> King of <hi>Portu<g ref="char:EOLhyphen"/>gal</hi> was married to the Duke of <hi>Savoy,</hi> Father of <hi>Philip</hi> Duke of <hi>Savoy.</hi>
+            </p>
+            <p>After the death of King <hi>Sebaſtian,</hi> ſlain as aforeſaid without Iſſue, the Crown of <hi>Portugal</hi> ſell to his gre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Uncle, <hi>Henry</hi> the Cardinal, at 67. years of age, who ſweyed the Scepter two years, and died unmarried: Now the Maſculine Race of <hi>Emmanuel</hi> being extinct, the Fe<g ref="char:EOLhyphen"/>male, according to the Fundamental Laws of <hi>Lamego,</hi> were to ſucceed.</p>
+            <p>There were ſeveral Pretenders, as <hi>Philip</hi> the Second of <hi>Spain,</hi> whoſe Mother was daughter to <hi>Emmanuel,</hi> and the Duke of <hi>Savoy,</hi> deſcended from the youngeſt Daugh<g ref="char:EOLhyphen"/>ter of <hi>Emmanuel,</hi> and both of them could but pretend a Title, for they had no Right.</p>
+            <p>The True and Undoubted Right reſted in the Chil<g ref="char:EOLhyphen"/>dren of Don <hi>Edward,</hi> one of the Sons of <hi>Emmanuel</hi> as a<g ref="char:EOLhyphen"/>foreſaid, and Brother to the King of <hi>Spains</hi> Mother, and the Duke of <hi>Parma</hi>'s the fore-mentioned Pretenders. He left, as we ſaid, two Daughters, <hi>Mary,</hi> the Eldeſt, mar<g ref="char:EOLhyphen"/>ried to the Duke of <hi>Parma;</hi> and <hi>Katherine,</hi> the Youngeſt, to the Duke of <hi>Braganza, Rainuccio</hi> Prince of <hi>Parma,</hi> though the Son of the Eldeſt Daughter of Prince <hi>Edward,</hi> could not ſucceed, becauſe his Mother was married out of <hi>Portugal,</hi> for the Fundamental Laws, which were thoſe of <hi>Lamego,</hi> as upon the Failer of the Male Line, they made the Female capable of Succeſſion, did it with this reſtriction, that they ſhould be married within <hi>Portu<g ref="char:EOLhyphen"/>gal,</hi> if they married any Forreign Prince, they ſhould have no Right in the Succeſſion, which was barr'd by this Match of Princeſs <hi>Mary</hi> with the Duke of <hi>Parma,</hi> an <hi>Italian,</hi> and it was great reaſon that this Law, which was twin-born with the Monarchy of <hi>Portugal,</hi> ſhould be juſt<g ref="char:EOLhyphen"/>ly
+<pb n="7" facs="tcp:175104:4"/>
+               <!-- PDF PAGE 34 -->obſerved, and was ſo, after the death of Don <hi>Fernan<g ref="char:EOLhyphen"/>do,</hi> the 9th. King, whoſe Daughter was excluded the Succeſſion, by vertue of this Law of <hi>Lamego,</hi> which both Prince and People were ſworn to obſerve; nor can any think it hard meaſure to the Dukes of <hi>Parma,</hi> to be ex<g ref="char:EOLhyphen"/>cluded the Succeſſion to the Crown, being deſcended of Prince <hi>Edwards</hi> Eldeſt Daughter, and that the Duke of <hi>Braganza,</hi> deſcended of the Younger Daughter, who mar<g ref="char:EOLhyphen"/>ried with a Native of <hi>Portugal,</hi> ſhould have the undoub<g ref="char:EOLhyphen"/>ted Right: For had it not been for that Law, which ex<g ref="char:EOLhyphen"/>cludes the Daughter of <hi>Portugal,</hi> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> married to a ſtranger, <hi>Emmanuel</hi> (the Father of Prince <hi>Edward,</hi> from whom the Duke of <hi>Parma</hi> claimes) had never been King, but it had gone with the Daughter of <hi>Fernando</hi> the 9th. King of <hi>Portugal,</hi> juſtly excluded by their Laws, for marrying with a Forreigner; and the poſterity of the Eldeſt Daugh<g ref="char:EOLhyphen"/>ter cannot quarrel with this Clauſe in the Law of <hi>Lamego,</hi> ſeing it was that very Clauſe, and that alone, that brought the Sovereignty to the Line of <hi>Emmanuel,</hi> from whom the Prince of <hi>Parma</hi> deſcends. <hi>Katherine</hi> the Youngeſt Daughter of Prince <hi>Edward,</hi> marryed to the Duke of <hi>Braganza,</hi> a Native of <hi>Portugal,</hi> could only lay a juſt claim to the Crown. But <hi>Philip</hi> the Second, of <hi>Spain,</hi> though he could not pretend ſo far as the Duke of <hi>Parma,</hi> as being deſcended from a Daughter, whoſe Brothers Heirs muſt in all reaſon be preferred before hers, yet to acquire a Kingdom, which might joyn the whole Con<g ref="char:EOLhyphen"/>tinent of <hi>Spain</hi> together in one hand, he diſ-inherits all Right, and by his Martial Favourite the Duke of <hi>Alva,</hi> invades <hi>Portugal</hi> with an Army, marching directly to<g ref="char:EOLhyphen"/>wards <hi>Lisbon,</hi> where wiſely ſtriking at the Head, he brought a whole Kingdom on their Knees, and receives a Crown, adorned with the richeſt Jewels of the Eaſt,
+<pb n="8" facs="tcp:175104:5"/>
+               <!-- PDF PAGE 35 -->(that Nation having many rich Factories there) which hapned in the Year, 1580. Being thus poſſeſt, he left it to his Son <hi>Philip</hi> 3d and he to <hi>Philip</hi> 4th till the Year 1640. When on a ſudden, not only <hi>Portugal,</hi> but the Iſlands and Territories thereunto belonging (<hi>Ceuta</hi> in <hi>Barbary</hi> excepted) fell from the <hi>Spaniard</hi> like a Dream, and awakened its old Glory and Freedom, in the Perſon of the Duke of <hi>Braganza</hi> (Grandſon of that Duke of <hi>Bra<g ref="char:EOLhyphen"/>ganza</hi> that married <hi>Katherine,</hi> Daughter of Prince <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> Son of <hi>Emmanuel,</hi> King of <hi>Portugal</hi>) then pre<g ref="char:EOLhyphen"/>ſently proclaimed by the Name of <hi>John</hi> the 4th. King of <hi>Portugal,</hi> and ſo own'd by all Princes, whom the <hi>Auſtrian</hi> Greatneſs did not over-awe; who dying, left his Crown deſcending by a Juſt and Undoubted Title to <hi>Alphonſo</hi> the Sixth, now King of <hi>Portugal.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175104:5"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="8" facs="tcp:175104:6"/>
+            <!-- PDF PAGE 36 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175104:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </body>
+   </text>
+</TEI>
